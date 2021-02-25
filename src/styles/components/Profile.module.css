@@ -16,11 +16,13 @@
 .profileContainer div strong {
     font-size: 1.5rem;
     font-weight: 600;
+    font-family: Inter;
     color: var(--title);
 }
 
 .profileContainer div p {
     font-size: 1rem;
+    font-family: Inter;
     margin-top: 0.5rem;
 }
 

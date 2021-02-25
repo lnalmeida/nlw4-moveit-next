@@ -8,6 +8,7 @@
     border-bottom: 1px solid #d7d8da;
 
     font-weight: 500;
+    font-family: Inter;
 }
 
 .completedChallengesContainer span:first-child {
