@@ -6,6 +6,7 @@ interface CountdownContextData {
     minutes: number;
     isActive: boolean;
     hasFinished: boolean;
+    challengesCompleteds: number;
     startCountdown: () => void;
     resetCountdown: () => void;
 };
